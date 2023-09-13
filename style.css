@@ -1,10 +1,10 @@
 :root{
-  --arriere_anim: #E87975;
+  --arriere_anim: #095ABA;
   --arriere: #F4F4F4;
   --texte: #1A3B44;
-  --texte_bis: #E87975;
-  --logo: #E87975;
-  --fill_img: #E87975; /*#79C2D6*/
+  --texte_bis: #095ABA;
+  --logo: #095ABA;
+  --fill_img: #095ABA; /*#79C2D6*/
   --nuage: rgba(255, 255, 255, 0.15);
 
   --police_fine2: 300 1rem/1.4 "Josefin Sans";
