@@ -7,10 +7,10 @@
   --fill_img: #095ABA; /*#79C2D6*/
   --nuage: rgba(255, 255, 255, 0.15);
 
-  --police_fine2: 300 1rem/1.4 "Helvetica";
-  --police_fine: 300 1.25rem/1.4 "Helvetica";
-  --police: 300 1.55rem/1.4 "Helvetica";
-  --police_epaisse: 600 1.55rem/1.4 "Helvetica";
+  --police_fine2: 300 1rem/1.4 "Josefin Sans";
+  --police_fine: 300 1.25rem/1.4 "Josefin Sans";
+  --police: 300 1.55rem/1.4 "Josefin Sans";
+  --police_epaisse: 600 1.55rem/1.4 "Josefin Sans";
 }
 
 *,
